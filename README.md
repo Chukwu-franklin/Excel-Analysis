@@ -18,6 +18,16 @@ The data was in a csv format, it was cleaned, transformed and visualized throuhg
     
     
 ## Findings
-Finding 1
- This shows the most affordable car 
+Created a dashboard to summarize the findings made from the analysis
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
    ![Most_affordable_car](https://user-images.githubusercontent.com/120729134/212549064-d01ccddf-02a1-42c7-a48d-557726a957dd.png)
