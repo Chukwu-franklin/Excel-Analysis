@@ -18,3 +18,6 @@ The data was in a csv format, it was cleaned, transformed and visualized throuhg
     
     
 ## Findings
+Finding 1
+ This shows the most affordable car 
+    [most affordable car](https://github.com/ogai1/Analysis-of-cars-from-Cars45.com/blob/main/Cars45/Most_affordable_car/Most_affordable_car.pdf)
