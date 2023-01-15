@@ -19,7 +19,8 @@ The data was in a csv format, it was cleaned, transformed and visualized throuhg
     
 ## Findings
 Created a dashboard to summarize the findings made from the analysis
-    
+    ![Dashboard](https://user-images.githubusercontent.com/120729134/212549582-6f256647-b196-46df-b7da-bc6addbd79ba.png)
+
  
  
  
