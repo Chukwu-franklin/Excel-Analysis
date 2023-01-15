@@ -20,5 +20,4 @@ The data was in a csv format, it was cleaned, transformed and visualized throuhg
 ## Findings
 Finding 1
  This shows the most affordable car 
-   [Most_affordable_car.pdf](https://github.com/ogai1/Analysis-of-cars-from-Cars45.com/files/10420464/Most_affordable_car.pdf)
-
+   ![Most_affordable_car](https://user-images.githubusercontent.com/120729134/212549064-d01ccddf-02a1-42c7-a48d-557726a957dd.png)
