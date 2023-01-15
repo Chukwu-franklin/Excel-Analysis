@@ -29,18 +29,19 @@ Created a dashboard to summarize the findings made from the analysis
 # Number of cars bought by year of production 
    ![Number_of_cars_bought_by_year-1](https://user-images.githubusercontent.com/120729134/212565399-78082dae-06ec-43d7-994b-023b1af75f99.jpg)
 # Average mileage by car condition
-    ![Average_mileage_by_car_condition-1](https://user-images.githubusercontent.com/120729134/212566461-c41ddef5-af00-4667-8b00-601398ec9245.jpg)
+    ![Average_mileage_by_car_condition-1](https://user-images.githubusercontent.com/120729134/212566713-610c4370-b438-4999-8142-06fea6ba5beb.jpg)
 
 
 
 # Number of cars by gear type
-    ![Number_of_cars_by_gear_type-1](https://user-images.githubusercontent.com/120729134/212565095-00bd098b-c7ff-40ca-9ac3-f5b7b94aac9c.jpg)
+    ![Number_of_cars_by_gear_type-1](https://user-images.githubusercontent.com/120729134/212566568-10416863-346e-4974-bec4-46f4015df056.jpg)
+    
 
 # Number of cars bought by colour
    ![Number_of_cars_by_colour-1](https://user-images.githubusercontent.com/120729134/212566494-aa245072-e100-4a1e-a174-2498ba9a50e5.jpg)
 
 # Number of cars by fuel type
-    ![Number_of_cars_by_fuel_type-1](https://user-images.githubusercontent.com/120729134/212565248-3d39300d-12f5-4c25-a46b-6646918d9198.jpg)
+    ![Number_of_cars_by_fuel_type-1](https://user-images.githubusercontent.com/120729134/212566552-1e0219b3-2af1-4f03-a578-6c80f61d3612.jpg)
     
   
  
