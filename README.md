@@ -26,4 +26,6 @@ Created a dashboard to summarize the findings made from the analysis
    ![Most_affordable_car](https://user-images.githubusercontent.com/120729134/212549064-d01ccddf-02a1-42c7-a48d-557726a957dd.png)
  
  The most expensive car
-    
+    ![Most_expensive_car-1](https://user-images.githubusercontent.com/120729134/212564191-f22af484-484b-4853-9503-9180a96fc83c.jpg)
+
+
