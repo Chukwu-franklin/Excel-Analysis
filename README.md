@@ -15,3 +15,6 @@ The data was in a csv format, it was cleaned, transformed and visualized throuhg
     2. Added a seperator to the price column.
     3. Pivot tables were created to capture specific insights.
     4. Insights were visualized using Microsoft Excel.
+    
+    
+## Findings
