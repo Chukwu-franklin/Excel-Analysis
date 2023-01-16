@@ -24,16 +24,17 @@ Created a dashboard to summarize the findings made from the analysis
    ![Most_expensive_car-1](https://user-images.githubusercontent.com/120729134/212564319-16ac8157-5245-4f5f-9853-8d3b750fdc46.jpg)
 # The most affordable car
    ![Most_affordable_car](https://user-images.githubusercontent.com/120729134/212549064-d01ccddf-02a1-42c7-a48d-557726a957dd.png)
-# Average Price of car
+# The average Price of a car
    ![Average_price_of_a_car-1](https://user-images.githubusercontent.com/120729134/212564561-59480243-bfb1-4514-8201-fdcbc0e2c5af.jpg)
 # Number of cars bought by year of production 
    ![Number_of_cars_bought_by_year-1](https://user-images.githubusercontent.com/120729134/212565399-78082dae-06ec-43d7-994b-023b1af75f99.jpg)
 # Average mileage by car condition
    ![Average_mileage_by_car_condition-1](https://user-images.githubusercontent.com/120729134/212567669-56851ef2-34cd-4b40-a26b-082c682809d4.jpg)
-# Number of cars by gear type
+# Number of cars bought by gear type
    ![Number_of_cars_by_gear_type-1](https://user-images.githubusercontent.com/120729134/212567853-172e9fb1-a1b4-4b9d-865c-59f8c7c87dbb.jpg)
 # Number of cars bought by colour
    ![Number_of_cars_by_colour-1](https://user-images.githubusercontent.com/120729134/212566494-aa245072-e100-4a1e-a174-2498ba9a50e5.jpg)
-# Number of cars by fuel type
+# Number of cars boughht  by fuel type
    ![Number_of_cars_by_fuel_type-1](https://user-images.githubusercontent.com/120729134/212604052-fb5e123e-b85b-42cd-b4c4-22529dc602bc.jpg)
+   
     
