@@ -40,7 +40,8 @@ Created a dashboard to summarize the findings made from the analysis
 ## Analysis
 * The most expensive car on Cars45 is the 2015 Mercedes Benz S-Class that costs 62,400,000 naira while the most affordable car is the 2000 Honda Civic that costs 550,000 naira as at the time that this dataset was extracted from the Cars45 website.
 * Different car makes and models are sold on Cars45 ranging from the Acura ILX to Volvo S80 and the price displayhed on the dashboard shows how much each car costs on average.
-* Cars manufactured in 2017 are the most bought whereas cars manufactured in 2022 are the least bought.
+* On Cars45, cars manufactured in 2017 are the most bought whereas cars manufactured in 2022 are the least bought.
 * Automatic gear cars were the most purchased, followed by manual gear type and CVT gear type.
-* Brand new cars have the smallest mileage, whereas foreign cars have the highest mileage.
-
+* New cars have the least mileage, while foreign cars have the most mileage.
+* By colour, black cars sell more while pink and ivory cars sell the least.
+* Hybrid (electric) powered cars are the lowest purchased, followed by disel powered cars and at the top are petrol powered cars.
