@@ -29,7 +29,7 @@ Created a dashboard to summarize the findings made from the analysis
 # Number of cars bought by year of production 
    ![Number_of_cars_bought_by_year-1](https://user-images.githubusercontent.com/120729134/212565399-78082dae-06ec-43d7-994b-023b1af75f99.jpg)
 # Average mileage by car condition
-   ![Average_mmileage_by_car_condition-1](https://user-images.githubusercontent.com/120729134/212665990-40327dd6-7f70-4980-bfcb-35081b2b188f.jpg)
+   ![Average_mileage_by_car_condition-1 jpg-1](https://user-images.githubusercontent.com/120729134/212669493-cce57337-a788-473e-ba56-a5556057d8e9.jpg)
 # Number of cars bought by gear type
    ![Number_of_cars_by_gear_type-1](https://user-images.githubusercontent.com/120729134/212666262-4c834781-02de-4db0-9b3d-290f1547cc70.jpg)
 # Number of cars bought by colour
