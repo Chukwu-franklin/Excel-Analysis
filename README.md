@@ -38,7 +38,7 @@ Created a dashboard to summarize the findings made from the analysis
    ![Number_of_cars_bought_by_fuel_type-1 jpg-1](https://user-images.githubusercontent.com/120729134/212672128-2c37567e-e667-46d1-8528-296c24a17cc9.jpg)
    
 ## Analysis
-*The most expensive car on Cars45 is the 2015 Mercedes Benz S-Class that costs 62,400,000 naira while the most affordable car is the 2000 Honda Civic that costs 550,000 naira as at the time that this dataset was extracted from the Cars45 website.
-*Different car makes and models are sold on Cars45 ranging from the Acura ILX to Volvo S80 and the price displayhed on the dashboard shows how much each car costs on average.
+* The most expensive car on Cars45 is the 2015 Mercedes Benz S-Class that costs 62,400,000 naira while the most affordable car is the 2000 Honda Civic that costs 550,000 naira as at the time that this dataset was extracted from the Cars45 website.
+* Different car makes and models are sold on Cars45 ranging from the Acura ILX to Volvo S80 and the price displayhed on the dashboard shows how much each car costs on average.
 
 
