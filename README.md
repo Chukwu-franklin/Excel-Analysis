@@ -34,7 +34,7 @@ Created a dashboard to summarize the findings made from the analysis
    ![Number_of_cars_by_gear_type-1](https://user-images.githubusercontent.com/120729134/212567853-172e9fb1-a1b4-4b9d-865c-59f8c7c87dbb.jpg)
 # Number of cars bought by colour
    ![Number_of_cars_by_colour-1](https://user-images.githubusercontent.com/120729134/212566494-aa245072-e100-4a1e-a174-2498ba9a50e5.jpg)
-# Number of cars boughht  by fuel type
+# Number of cars bought  by fuel type
    ![Number_of_cars_by_fuel_type-1](https://user-images.githubusercontent.com/120729134/212604052-fb5e123e-b85b-42cd-b4c4-22529dc602bc.jpg)
    
     
