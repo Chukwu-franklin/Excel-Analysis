@@ -25,7 +25,7 @@ Created a dashboard to summarize the findings made from the analysis
 # The most affordable car
    ![Most_affordable_car](https://user-images.githubusercontent.com/120729134/212549064-d01ccddf-02a1-42c7-a48d-557726a957dd.png)
 # The average Price of a car
-   ![Average_price_of_a_car-1](https://user-images.githubusercontent.com/120729134/212564561-59480243-bfb1-4514-8201-fdcbc0e2c5af.jpg)
+   ![Average_price_of_a_car-1](https://user-images.githubusercontent.com/120729134/212667764-e0fc9707-0325-4d96-9aa6-380f5bb05430.jpg)
 # Number of cars bought by year of production 
    ![Number_of_cars_bought_by_year-1](https://user-images.githubusercontent.com/120729134/212565399-78082dae-06ec-43d7-994b-023b1af75f99.jpg)
 # Average mileage by car condition
